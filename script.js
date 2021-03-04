@@ -30,14 +30,3 @@ console.log(savedInfo)
        } else{
           document.getElementById("linkDisplay").innerHTML = savedInfo;
        }
-        
-
-
-
-  // for(var i = 0; i < 4; i++){
-            
-  //   beforeCode = document.getElementById("linkDisplay").value;
-  //   finalCode = String(beforeCode+"<br>"+publicZoomLink)
-  //   document.getElementById("linkDisplay").innerHTML = finalCode;
-          
-  //     }
